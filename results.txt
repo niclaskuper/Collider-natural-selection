@@ -1,0 +1,30 @@
+[1] "beta = 0"
+[1] "no natural selection"
+                         children_IQ children_bodily_strength
+children_IQ                        1                        0
+children_bodily_strength           0                        1
+[1] "natural selection = collider bias "
+                         children_IQ children_bodily_strength
+children_IQ                     1.00                    -0.28
+children_bodily_strength       -0.28                     1.00
+[1] "------------------"
+[1] "beta = 0.5"
+[1] "no natural selection"
+                         children_IQ children_bodily_strength
+children_IQ                     1.00                     0.45
+children_bodily_strength        0.45                     1.00
+[1] "natural selection = collider bias "
+                         children_IQ children_bodily_strength
+children_IQ                     1.00                     0.15
+children_bodily_strength        0.15                     1.00
+[1] "------------------"
+[1] "beta = 1"
+[1] "no natural selection"
+                         children_IQ children_bodily_strength
+children_IQ                     1.00                     0.71
+children_bodily_strength        0.71                     1.00
+[1] "natural selection = collider bias "
+                         children_IQ children_bodily_strength
+children_IQ                     1.00                     0.47
+children_bodily_strength        0.47                     1.00
+[1] "------------------"
